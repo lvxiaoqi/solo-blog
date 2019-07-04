@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [怎样才能做到心无杂念的学习？](http://blog.ysbzc.xyz/articles/2019/07/04/1562223165274.html)
 * [写在最开始](http://blog.ysbzc.xyz/articles/2019/07/03/1562117611219.html)
 
 
