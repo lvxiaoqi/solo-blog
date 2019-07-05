@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [知行合一的理解](http://blog.ysbzc.xyz/articles/2019/07/05/1562291270822.html)
 * [怎样才能做到心无杂念的学习？](http://blog.ysbzc.xyz/articles/2019/07/04/1562223165274.html)
 * [写在最开始](http://blog.ysbzc.xyz/articles/2019/07/03/1562117611219.html)
 
