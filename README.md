@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [有哪些鲜为人知，但是很有意思的网站](http://blog.ysbzc.xyz/articles/2019/07/30/1564473588601.html)
 * [Composer国内全量镜像大全](http://blog.ysbzc.xyz/articles/2019/07/10/1562748373276.html)
 * [如何进行冥想？](http://blog.ysbzc.xyz/articles/2019/07/09/1562652740091.html)
 * [知行合一的理解](http://blog.ysbzc.xyz/articles/2019/07/05/1562291270822.html)
