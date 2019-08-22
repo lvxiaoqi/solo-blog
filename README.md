@@ -1,4 +1,4 @@
-<p align="center"><img alt="  云深不知处" src="http://pu034v080.bkt.clouddn.com/20190702144629.png"></p><h2 align="center">
+<p align="center"><img alt="  云深不知处" src="http://img.ysbzc.xyz/20190702144629.png"></p><h2 align="center">
   云深不知处
 </h2>
 
@@ -15,7 +15,6 @@
 * [如何进行冥想？](http://blog.ysbzc.xyz/articles/2019/07/09/1562652740091.html)
 * [知行合一的理解](http://blog.ysbzc.xyz/articles/2019/07/05/1562291270822.html)
 * [怎样才能做到心无杂念的学习？](http://blog.ysbzc.xyz/articles/2019/07/04/1562223165274.html)
-* [写在最开始](http://blog.ysbzc.xyz/articles/2019/07/03/1562117611219.html)
 
 
 
