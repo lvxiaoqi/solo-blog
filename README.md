@@ -10,7 +10,8 @@
 
 ### 最新
 
-* [世界，你好！](http://blog.ysbzc.xyz:9090/hello-solo)
+* [20个你一定要知道的细微高效小习惯 ](http://blog.ysbzc.xyz/articles/2019/11/14/1573717917766.html)
+* [知行合一如何实践](http://blog.ysbzc.xyz/articles/2019/11/14/1573715973747.html)
 
 
 
